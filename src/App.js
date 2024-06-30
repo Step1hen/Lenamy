@@ -1,32 +1,26 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import { CssBaseline, Container } from '@material-ui/core';
+import { Route, Switch } from 'react-router-dom';
 import Navbar from './components/Navbar';
-import Home from './components/Home';
-import Login from './components/Login';
-import Register from './components/Register';
-import Courses from './components/Courses';
-import CourseDetail from './components/CourseDetail';
-import UserProfile from './components/UserProfile';
-import CreateCourse from './components/CreateCourse';
+import Home from './pages/Home';
+import Login from './pages/Login';
+import Register from './pages/Register';
+import Profile from './components/Profile';
+import CourseList from './components/CourseList';
+import Course from './components/Course';
 
 function App() {
   return (
-    <Router>
-      <CssBaseline />
+    <div>
       <Navbar />
-      <Container>
-        <Switch>
-          <Route path="/" component={Home} exact />
-          <Route path="/login" component={Login} />
-          <Route path="/register" component={Register} />
-          <Route path="/courses" component={Courses} exact />
-          <Route path="/courses/:id" component={CourseDetail} />
-          <Route path="/profile" component={UserProfile} />
-          <Route path="/create-course" component={CreateCourse} />
-        </Switch>
-      </Container>
-    </Router>
+      <Switch>
+        <Route path="/" exact component={Home} />
+        <Route path="/login" component={Login} />
+        <Route path="/register" component={Register} />
+        <Route path="/profile" component={Profile} />
+        <Route path="/courses" exact component={CourseList} />
+        <Route path="/courses/:id" component={Course} />
+      </Switch>
+    </div>
   );
 }
 

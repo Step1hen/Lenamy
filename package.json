@@ -2,15 +2,16 @@
   "name": "frontend",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https:/Step1hen.github.io/Lenamy",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
     "axios": "^0.21.1",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3",
-    "gh-pages": "^3.2.3"
+    "react-scripts": "4.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -37,8 +38,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },  
-    "homepage": "https://Step1hen.github.io/Lenamy"
-
+  }
 }
-
