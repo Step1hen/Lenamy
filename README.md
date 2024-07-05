@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+LENAMY
+It is an online education and learning platform for all over to world to access great knowledge.This project was built by Amponsah Stephen as part of the ALX Portfolio Project.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
