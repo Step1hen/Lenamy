@@ -9,13 +9,13 @@ export const homeAbout = [
       id: 1,
       cover: "https://img.icons8.com/ios/80/000000/diploma.png",
       title: "Earn A Certificates",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "The human body contains around 37.2 trillion cells, each working together to keep us alive and functioning.",
     },
     {
       id: 1,
       cover: "https://img.icons8.com/ios/80/000000/athlete.png",
       title: "Learn with Expert",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "Bananas are berries, but strawberries aren't.",
     },
   ]
   export const awrapper = [
