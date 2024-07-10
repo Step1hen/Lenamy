@@ -22,7 +22,7 @@ const Footer = () => {
           <div className='box logo'>
             <h1>LENAMY</h1>
             <span>ONLINE EDUCATION & LEARNING</span>
-            <p>Africa is home to the world's largest desert, the Sahara, which is almost as large as the entire United States.</p>
+            <p>Lenamy is a premier online education and learning platform dedicated to empowering individuals with high-quality, accessible courses in various fields. </p>
 
             <i className='fab fa-facebook-f icon'></i>
             <i className='fab fa-twitter icon'></i>
@@ -70,7 +70,7 @@ const Footer = () => {
             ))}
           </div>
           <div className='box last'>
-            <h3>Have a Questions?</h3>
+            <h3>Have Questions?</h3>
             <ul>
               <li>
                 <i className='fa fa-map'></i>
@@ -82,7 +82,7 @@ const Footer = () => {
               </li>
               <li>
                 <i className='fa fa-paper-plane'></i>
-                info@yourdomain.com
+                info@Lenamyeducation.com
               </li>
             </ul>
           </div>
@@ -90,7 +90,7 @@ const Footer = () => {
       </footer>
       <div className='legal'>
         <p>
-          Copyright ©2024 All rights reserved | This template is made with <i className='fa fa-heart'></i> by Stephen_PARA
+          Copyright ©2024 All rights reserved | This website is made with <i className='fa fa-heart'></i> by Stephen_ALX
         </p>
       </div>
     </>
