@@ -8,7 +8,7 @@ export const homeAbout = [
     {
       id: 1,
       cover: "https://img.icons8.com/ios/80/000000/diploma.png",
-      title: "Earn A Certificates",
+      title: "Earn A Certificate",
       desc: "The human body contains around 37.2 trillion cells, each working together to keep us alive and functioning.",
     },
     {
@@ -45,7 +45,7 @@ export const homeAbout = [
     {
       id: 1,
       cover: "../images/courses/c1.png",
-      coursesName: "Introducing to Software Engineering",
+      coursesName: "Introduction to Software Engineering",
       courTeacher: [
         {
           dcover: "./images/back.webp",
@@ -53,7 +53,7 @@ export const homeAbout = [
           totalTime: "50 lectures (190 hrs)",
         },
       ],
-      priceAll: "$100 All Course",
+      priceAll: "$100 All Courses",
       pricePer: "$15 per month",
     },
     {
@@ -67,7 +67,7 @@ export const homeAbout = [
           totalTime: "30 lectures (125 hrs)",
         },
       ],
-      priceAll: "$200 All Course",
+      priceAll: "$200 All Courses",
       pricePer: "$25 per month",
     },
     {
@@ -81,13 +81,13 @@ export const homeAbout = [
           totalTime: "50 lectures (50 hrs)",
         },
       ],
-      priceAll: "$50 All Course",
+      priceAll: "$50 All Courses",
       pricePer: "$5 per month",
     },
     {
       id: 4,
       cover: "../images/courses/c4.png",
-      coursesName: "Introducing to Programming with WordPress",
+      coursesName: "Introduction to Programming with WordPress",
       courTeacher: [
         {
           dcover: "./images/back.webp",
@@ -95,13 +95,13 @@ export const homeAbout = [
           totalTime: "20 lectures (20 hrs)",
         },
       ],
-      priceAll: "$30 All Course",
+      priceAll: "$30 All Courses",
       pricePer: "$3 per month",
     },
     {
       id: 5,
       cover: "../images/courses/c5.png",
-      coursesName: "Introducing to Programming with ReactJS",
+      coursesName: "Introduction to Programming with ReactJS",
       courTeacher: [
         {
           dcover: "./images/back.webp",
@@ -109,7 +109,7 @@ export const homeAbout = [
           totalTime: "100 lectures (150 hrs)",
         },
       ],
-      priceAll: "$300 All Course",
+      priceAll: "$300 All Courses",
       pricePer: "$30 per month",
     },
     {
@@ -123,13 +123,13 @@ export const homeAbout = [
           totalTime: "200 lectures (300 hrs)",
         },
       ],
-      priceAll: "$500 All Course",
+      priceAll: "$500 All Courses",
       pricePer: "$80 per month",
     },
     {
       id: 7,
       cover: "../images/courses/c7.png",
-      coursesName: "Introducing to with HTML / CSS",
+      coursesName: "Introduction to HTML / CSS",
       courTeacher: [
         {
           dcover: "./images/back.webp",
@@ -137,13 +137,13 @@ export const homeAbout = [
           totalTime: "20 lectures (50 hrs)",
         },
       ],
-      priceAll: "$20 All Course",
+      priceAll: "$20 All Courses",
       pricePer: "$2 per month",
     },
     {
       id: 8,
       cover: "../images/courses/c8.png",
-      coursesName: "Introducing to with JAVA",
+      coursesName: "Introduction to JAVA",
       courTeacher: [
         {
           dcover: "./images/back.webp",
@@ -151,13 +151,13 @@ export const homeAbout = [
           totalTime: "80 lectures (200 hrs)",
         },
       ],
-      priceAll: "$200 All Course",
+      priceAll: "$200 All Courses",
       pricePer: "$40 per month",
     },
     {
       id: 9,
       cover: "../images/courses/c9.png",
-      coursesName: "Introducing to with HTML / CSS / JAVASCRIPT",
+      coursesName: "Introduction to HTML / CSS / JAVASCRIPT",
       courTeacher: [
         {
           dcover: "./images/back.webp",
@@ -165,7 +165,7 @@ export const homeAbout = [
           totalTime: "50 lectures (50 hrs)",
         },
       ],
-      priceAll: "$20 All Course",
+      priceAll: "$20 All Courses",
       pricePer: "$3 per month",
     },
   ]
@@ -251,7 +251,7 @@ export const homeAbout = [
     },
     {
       cover: "./images/team/t2.webp",
-      name: "Ph.D Arthur MaGregor",
+      name: "Ph.D Arthur McGregor",
       work: "DEVELOPER AND LEAD INSTRUCTOR",
     },
     {
@@ -289,22 +289,22 @@ export const homeAbout = [
     {
       name: "BASIC PLAN",
       price: "49K",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "Ethiopia follows a calendar, the Coptic Orthodox Church’s, that is seven years behind the rest of the world.",
     },
     {
       name: "BEGINNER PLAN",
       price: "79K",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "Over 800 languages are spoken in Papua New Guinea.",
     },
     {
       name: "PREMIUM PLAN",
       price: "109k",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "Although clouds look light and fluffy, they can weigh over one million pounds.",
     },
     {
       name: "ULTIMATE PLAN",
       price: "149K",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "A shrimp’s heart is located inside its head.",
     },
   ]
   export const faq = [
@@ -340,15 +340,15 @@ export const homeAbout = [
       date: "JAN. 18, 2021",
       com: "3 COMMENTS ",
       title: "Build your Dream Software & Engineering Career",
-      desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+      desc: "Cats don’t have sweet taste buds and therefore can’t taste sugar.",
       cover: "../images/blog/b1.webp",
     },
     {
       id: 2,
       type: "admin",
-      date: "API. 25, 2022",
+      date: "FEB. 25, 2022",
       com: "5 COMMENTS ",
-      title: "Build your Dream Software & Engineering Career",
+      title: "Health and Fitness;worth discussing?",
       desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
       cover: "../images/blog/b2.webp",
     },
@@ -357,8 +357,8 @@ export const homeAbout = [
       type: "user",
       date: "MAY. 15, 2022",
       com: "10 COMMENTS ",
-      title: "Build your Dream Software & Engineering Career",
-      desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+      title: "Lenamy,an exciting learning platform",
+      desc: "Only female mosquitoes bite humans. Male mosquitoes drink flower nectar.",
       cover: "../images/blog/b3.webp",
     },
     {
@@ -367,7 +367,7 @@ export const homeAbout = [
       date: "JAN. 02, 2022",
       com: "3 COMMENTS ",
       title: "Build your Dream Software & Engineering Career",
-      desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+      desc: "A small river named Duden flows by their place and supplies it with the necessary regelia.",
       cover: "../images/blog/b4.webp",
     },
     {
@@ -376,7 +376,7 @@ export const homeAbout = [
       date: "DEC. 14, 2022",
       com: "3 COMMENTS ",
       title: "Build your Dream Software & Engineering Career",
-      desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+      desc: "A Over 40 buildings in New York City are so large that they have their own zip codes.small river named Duden flows by their place and supplies it with the necessary regelia.",
       cover: "../images/blog/b5.webp",
     },
     {
@@ -385,7 +385,7 @@ export const homeAbout = [
       date: "JAN. 18, 2021",
       com: "12 COMMENTS ",
       title: "Build your Dream Software & Engineering Career",
-      desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+      desc: "Uranus is the only planet to spin on its side",
       cover: "../images/blog/b6.webp",
     },
   ]
@@ -394,21 +394,21 @@ export const homeAbout = [
       id: 1,
       name: "ROGER SCOTT",
       post: "MARKETING MANAGER",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      desc: "I am very thrilled to have enrolled in the software engineering program",
       cover: "./images/testo/t1.webp",
     },
     {
       id: 2,
-      name: "ROGER SCOTT",
-      post: "MARKETING MANAGER",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      name: "FRANKLIN QUITT",
+      post: "ASPIRING FITNESS COACH",
+      desc: "I have gained foundational knowledge in fitness and health",
       cover: "./images/testo/t2.webp",
     },
     {
       id: 3,
-      name: "ROGER SCOTT",
-      post: "MARKETING MANAGER",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      name: "RODRIGO JNR",
+      post: "DEVELOPER",
+      desc: "This is a dream come true with these resources . ",
       cover: "./images/testo/t3.webp",
     },
   ]
